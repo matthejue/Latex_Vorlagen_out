@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  11 OCT 2022 14:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  11 OCT 2022 22:58
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2267,7 +2267,27 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [20
 
-])
+]
+<./figures/lupe.png, id=445, 177.13235pt x 223.8953pt>
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 82.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 82.
+(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
+
+Overfull \vbox (6.37871pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[21
+
+ <./figures/lupe.png>])
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
 Package pdftex.def Info: ./figures/background.png  used on input line 29.
@@ -2280,7 +2300,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[21
+[22
 
 
 
@@ -2303,7 +2323,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[22
+[23
 
 ]
 
@@ -2324,7 +2344,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[23
+[24
 
 ]
 
@@ -2345,7 +2365,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[24
+[25
 
 ]
 
@@ -2366,7 +2386,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[25
+[26
 
 ]
 
@@ -2387,7 +2407,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[26
+[27
 
 ]
 \tf@nav=\write10
@@ -2408,10 +2428,10 @@ Package logreq Info: Writing requests to 'Vorlage_Praesentation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49812 strings out of 477529
- 1073869 string characters out of 5827605
- 1905005 words of memory out of 5000000
- 67762 multiletter control sequences out of 15000+600000
+ 49833 strings out of 477529
+ 1074244 string characters out of 5827605
+ 1905490 words of memory out of 5000000
+ 67780 multiletter control sequences out of 15000+600000
  482257 words of font info for 94 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  133i,17n,125p,1018b,2455s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2427,10 +2447,10 @@ fonts/type1/public/amsfonts/cm/cmssi9.pfb></opt/texlive/texdir/texmf-dist/fonts
 1/public/amsfonts/cm/cmtt10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmtt8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/am
 sfonts/symbols/msam10.pfb>
-Output written on Vorlage_Praesentation.pdf (26 pages, 221560 bytes).
+Output written on Vorlage_Praesentation.pdf (27 pages, 227383 bytes).
 PDF statistics:
- 569 PDF objects out of 1000 (max. 8388607)
- 387 compressed objects within 4 object streams
- 63 named destinations out of 1000 (max. 500000)
- 31464 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 580 PDF objects out of 1000 (max. 8388607)
+ 395 compressed objects within 4 object streams
+ 65 named destinations out of 1000 (max. 500000)
+ 31469 words of extra memory for PDF output out of 35830 (max. 10000000)
 
