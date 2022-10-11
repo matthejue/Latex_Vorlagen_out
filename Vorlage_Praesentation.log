@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  11 OCT 2022 14:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  11 OCT 2022 14:53
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
 **Vorlage_Praesentation.tex
 (./Vorlage_Praesentation.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-08-23> (./content_Praesentation/Packete.tex
+L3 programming layer <2022-08-23> (./content_Vorlage_Praesentation/Packete.tex
 (/opt/texlive/texdir/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2022/05/17 v3.67 A class for typesetting presentations
 (/opt/texlive/texdir/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
@@ -1615,9 +1615,9 @@ Package csquotes Info: ... configuration file loaded successfully.
 (/opt/texlive/texdir/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 )))
-(./content_Praesentation/Design.tex
+(./content_Vorlage_Praesentation/Design.tex
 (/opt/texlive/texdir/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty)
-) (./content_Praesentation/Deklarationen.tex
+) (./content_Vorlage_Praesentation/Deklarationen.tex
 \c@custom=\count570
 \c@customtheorem=\count571
 \c@subcustomtheorem=\count572
@@ -1630,8 +1630,9 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
- (./Vorlage_Praesentation.aux
-(./content_Praesentation/Kapitel1.aux) (./content_Praesentation/Kapitel2.aux))
+
+(./Vorlage_Praesentation.aux (./content_Vorlage_Praesentation/Kapitel1.aux)
+(./content_Vorlage_Praesentation/Kapitel2.aux))
 \openout1 = `Vorlage_Praesentation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -1909,9 +1910,9 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [2
 
 ]
-\openout2 = `./content_Praesentation/Kapitel1.aux'.
+\openout2 = `./content_Vorlage_Praesentation/Kapitel1.aux'.
 
- (./content_Praesentation/Kapitel1.tex
+ (./content_Vorlage_Praesentation/Kapitel1.tex
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
 Package pdftex.def Info: ./figures/background.png  used on input line 8.
@@ -2139,9 +2140,9 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [14
 
 ])
-\openout2 = `./content_Praesentation/Kapitel2.aux'.
+\openout2 = `./content_Vorlage_Praesentation/Kapitel2.aux'.
 
- (./content_Praesentation/Kapitel2.tex
+ (./content_Vorlage_Praesentation/Kapitel2.tex
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
 Package pdftex.def Info: ./figures/background.png  used on input line 7.
@@ -2398,8 +2399,8 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 \tf@snm=\write12
 \openout12 = `Vorlage_Praesentation.snm'.
 
- (./Vorlage_Praesentation.aux (./content_Praesentation/Kapitel1.aux)
-(./content_Praesentation/Kapitel2.aux))
+ (./Vorlage_Praesentation.aux (./content_Vorlage_Praesentation/Kapitel1.aux) (.
+/content_Vorlage_Praesentation/Kapitel2.aux))
 Package rerunfilecheck Info: File `Vorlage_Praesentation.out' has not changed.
 (rerunfilecheck)             Checksum: 25A8979ADF70DF12F883C6AC09C6ACE3;361.
 Package logreq Info: Writing requests to 'Vorlage_Praesentation.run.xml'.
@@ -2408,8 +2409,8 @@ Package logreq Info: Writing requests to 'Vorlage_Praesentation.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  49812 strings out of 477529
- 1073293 string characters out of 5827605
- 1904965 words of memory out of 5000000
+ 1073869 string characters out of 5827605
+ 1905005 words of memory out of 5000000
  67762 multiletter control sequences out of 15000+600000
  482257 words of font info for 94 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
