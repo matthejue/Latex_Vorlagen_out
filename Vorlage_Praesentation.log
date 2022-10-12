@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  12 OCT 2022 11:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  12 OCT 2022 14:39
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1432,7 +1432,7 @@ Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
 )
 Package caption Info: Option `declare type' requires the `newfloat' package on 
-input line 120.
+input line 121.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/newfloat/newfloat.sty
 Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
@@ -1443,9 +1443,9 @@ Package newfloat Info: \@chapter = macro:[#1]#2->\NR@gettitle {#1}\NR@chapter [
 Package newfloat Info: \Hy@org@chapter = undefined.
 )
 Package newfloat Info: New float `codecaption' with options `' on input line 12
-0.
+1.
 \c@codecaption=\count548
-Package newfloat Info: float type `codecaption'=8 on input line 120.
+Package newfloat Info: float type `codecaption'=8 on input line 121.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/xfakebold/xfakebold.sty
 Package: xfakebold 2020/06/24 v0.08 using bold characters
@@ -2343,6 +2343,36 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [24
 
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 111.
+(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
+
+Overfull \vbox (6.37871pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[25
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 128.
+(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
+
+Overfull \vbox (6.37871pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[26
+
 ])
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
@@ -2356,7 +2386,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[25
+[27
 
 
 
@@ -2379,7 +2409,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[26
+[28
 
 ]
 
@@ -2400,7 +2430,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[27
+[29
 
 ]
 
@@ -2421,7 +2451,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[28
+[30
 
 ]
 
@@ -2442,7 +2472,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[29
+[31
 
 ]
 
@@ -2463,7 +2493,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[30
+[32
 
 ]
 \tf@nav=\write10
@@ -2484,10 +2514,10 @@ Package logreq Info: Writing requests to 'Vorlage_Praesentation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50247 strings out of 477529
- 1084053 string characters out of 5827605
- 2000789 words of memory out of 5000000
- 68176 multiletter control sequences out of 15000+600000
+ 50255 strings out of 477529
+ 1084123 string characters out of 5827605
+ 2000790 words of memory out of 5000000
+ 68180 multiletter control sequences out of 15000+600000
  482387 words of font info for 96 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  133i,17n,125p,1018b,2455s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2503,10 +2533,10 @@ fonts/type1/public/amsfonts/cm/cmssi9.pfb></opt/texlive/texdir/texmf-dist/fonts
 1/public/amsfonts/cm/cmtt10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmtt8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/am
 sfonts/symbols/msam10.pfb>
-Output written on Vorlage_Praesentation.pdf (30 pages, 234271 bytes).
+Output written on Vorlage_Praesentation.pdf (32 pages, 237043 bytes).
 PDF statistics:
- 609 PDF objects out of 1000 (max. 8388607)
- 420 compressed objects within 5 object streams
- 71 named destinations out of 1000 (max. 500000)
+ 630 PDF objects out of 1000 (max. 8388607)
+ 439 compressed objects within 5 object streams
+ 75 named destinations out of 1000 (max. 500000)
  31469 words of extra memory for PDF output out of 35830 (max. 10000000)
 
