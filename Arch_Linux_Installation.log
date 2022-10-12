@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  12 OCT 2022 14:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  12 OCT 2022 16:21
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2008,19 +2008,10 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 \openout4 = `Arch_Linux_Installation.vrb'.
 
- (./Arch_Linux_Installation.vrb
-Package pdfrender Info: New color stack `TextRenderingMode' = 2 on input line 3
-.
-Package pdfrender Info: New color stack `LineWidth' = 3 on input line 3.
-<./figures/keyboard.png, id=110, 1959.32pt x 909.3975pt>
-File: ./figures/keyboard.png Graphic file (type png)
-<use ./figures/keyboard.png>
-Package pdftex.def Info: ./figures/keyboard.png  used on input line 5.
-(pdftex.def)             Requested size: 195.33244pt x 90.65367pt.
-)
+ (./Arch_Linux_Installation.vrb)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 18.
+Package pdftex.def Info: ./figures/background.png  used on input line 14.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2032,19 +2023,13 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [7
 
- <./figures/keyboard.png>]
+]
 \openout4 = `Arch_Linux_Installation.vrb'.
 
- (./Arch_Linux_Installation.vrb
-<./figures/lupe.png, id=121, 177.13235pt x 223.8953pt>
-File: ./figures/lupe.png Graphic file (type png)
-<use ./figures/lupe.png>
-Package pdftex.def Info: ./figures/lupe.png  used on input line 7.
-(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
-)
+ (./Arch_Linux_Installation.vrb)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 33.
+Package pdftex.def Info: ./figures/background.png  used on input line 23.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2057,6 +2042,18 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [8
 
 ]
+\openout4 = `Arch_Linux_Installation.vrb'.
+
+ (./Arch_Linux_Installation.vrb
+Package pdfrender Info: New color stack `TextRenderingMode' = 2 on input line 3
+.
+Package pdfrender Info: New color stack `LineWidth' = 3 on input line 3.
+<./figures/keyboard.png, id=130, 1959.32pt x 909.3975pt>
+File: ./figures/keyboard.png Graphic file (type png)
+<use ./figures/keyboard.png>
+Package pdftex.def Info: ./figures/keyboard.png  used on input line 5.
+(pdftex.def)             Requested size: 195.33244pt x 90.65367pt.
+)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
 Package pdftex.def Info: ./figures/background.png  used on input line 33.
@@ -2071,14 +2068,19 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [9
 
-
- <./figures/lupe.png>]
+ <./figures/keyboard.png>]
 \openout4 = `Arch_Linux_Installation.vrb'.
 
- (./Arch_Linux_Installation.vrb)
+ (./Arch_Linux_Installation.vrb
+<./figures/lupe.png, id=167, 177.13235pt x 223.8953pt>
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 23.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 41.
+Package pdftex.def Info: ./figures/background.png  used on input line 64.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2091,12 +2093,9 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [10
 
 ]
-\openout4 = `Arch_Linux_Installation.vrb'.
-
- (./Arch_Linux_Installation.vrb)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 48.
+Package pdftex.def Info: ./figures/background.png  used on input line 64.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2108,13 +2107,14 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [11
 
-]
+
+ <./figures/lupe.png>]
 \openout4 = `Arch_Linux_Installation.vrb'.
 
  (./Arch_Linux_Installation.vrb)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 72.
+Package pdftex.def Info: ./figures/background.png  used on input line 70.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2127,9 +2127,12 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [12
 
 ]
+\openout4 = `Arch_Linux_Installation.vrb'.
+
+ (./Arch_Linux_Installation.vrb)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 72.
+Package pdftex.def Info: ./figures/background.png  used on input line 77.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2141,11 +2144,13 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [13
 
-
 ]
+\openout4 = `Arch_Linux_Installation.vrb'.
+
+ (./Arch_Linux_Installation.vrb)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 72.
+Package pdftex.def Info: ./figures/background.png  used on input line 101.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2157,20 +2162,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [14
 
-
 ]
-\openout4 = `Arch_Linux_Installation.vrb'.
-
- (./Arch_Linux_Installation.vrb
-File: ./figures/lupe.png Graphic file (type png)
-<use ./figures/lupe.png>
-Package pdftex.def Info: ./figures/lupe.png  used on input line 8.
-(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
-File: ./figures/lupe.png Graphic file (type png)
-<use ./figures/lupe.png>
-Package pdftex.def Info: ./figures/lupe.png  used on input line 22.
-(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
-)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
 Package pdftex.def Info: ./figures/background.png  used on input line 101.
@@ -2184,6 +2176,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
  []
 
 [15
+
 
 ]
 File: ./figures/background.png Graphic file (type png)
@@ -2202,9 +2195,21 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 
 ]
+\openout4 = `Arch_Linux_Installation.vrb'.
+
+ (./Arch_Linux_Installation.vrb
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 8.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 22.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 101.
+Package pdftex.def Info: ./figures/background.png  used on input line 130.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2216,14 +2221,10 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [17
 
-
 ]
-\openout4 = `Arch_Linux_Installation.vrb'.
-
- (./Arch_Linux_Installation.vrb)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 116.
+Package pdftex.def Info: ./figures/background.png  used on input line 130.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2235,10 +2236,11 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [18
 
+
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 116.
+Package pdftex.def Info: ./figures/background.png  used on input line 130.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2257,7 +2259,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
  (./Arch_Linux_Installation.vrb)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 131.
+Package pdftex.def Info: ./figures/background.png  used on input line 145.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2272,7 +2274,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 131.
+Package pdftex.def Info: ./figures/background.png  used on input line 145.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2283,77 +2285,6 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
  []
 
 [21
-
-
-]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 131.
-(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
-
-Overfull \vbox (6.37871pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[22
-
-
-]
-\openout4 = `Arch_Linux_Installation.vrb'.
-
- (./Arch_Linux_Installation.vrb
-File: ./figures/lupe.png Graphic file (type png)
-<use ./figures/lupe.png>
-Package pdftex.def Info: ./figures/lupe.png  used on input line 14.
-(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
-)
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 151.
-(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
-
-Overfull \vbox (6.37871pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[23
-
-]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 151.
-(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
-
-Overfull \vbox (6.37871pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[24
-
-
-]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 151.
-(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
-
-Overfull \vbox (6.37871pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[25
 
 
 ]
@@ -2372,7 +2303,112 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
+[22
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 160.
+(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
+
+Overfull \vbox (6.37871pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[23
+
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 160.
+(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
+
+Overfull \vbox (6.37871pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[24
+
+
+]
+\openout4 = `Arch_Linux_Installation.vrb'.
+
+ (./Arch_Linux_Installation.vrb
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 14.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+)
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 180.
+(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
+
+Overfull \vbox (6.37871pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[25
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 180.
+(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
+
+Overfull \vbox (6.37871pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
 [26
+
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 180.
+(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
+
+Overfull \vbox (6.37871pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[27
+
+
+]
+\openout4 = `Arch_Linux_Installation.vrb'.
+
+ (./Arch_Linux_Installation.vrb)
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 189.
+(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
+
+Overfull \vbox (6.37871pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[28
 
 ]
 \openout4 = `Arch_Linux_Installation.vrb'.
@@ -2396,38 +2432,7 @@ Package pdftex.def Info: ./figures/lupe.png  used on input line 26.
 )
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 192.
-(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
-
-Overfull \vbox (6.37871pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[27
-
-]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 192.
-(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
-
-Overfull \vbox (6.37871pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[28
-
-
-]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 192.
+Package pdftex.def Info: ./figures/background.png  used on input line 221.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2439,28 +2444,10 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [29
 
-
 ]
-\openout4 = `Arch_Linux_Installation.vrb'.
-
- (./Arch_Linux_Installation.vrb
-File: ./figures/lupe.png Graphic file (type png)
-<use ./figures/lupe.png>
-Package pdftex.def Info: ./figures/lupe.png  used on input line 12.
-(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
-<./figures/cp.png, id=327, 620.90033pt x 18.45192pt>
-File: ./figures/cp.png Graphic file (type png)
-<use ./figures/cp.png>
-Package pdftex.def Info: ./figures/cp.png  used on input line 15.
-(pdftex.def)             Requested size: 287.2377pt x 8.5359pt.
-File: ./figures/lupe.png Graphic file (type png)
-<use ./figures/lupe.png>
-Package pdftex.def Info: ./figures/lupe.png  used on input line 25.
-(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
-)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 225.
+Package pdftex.def Info: ./figures/background.png  used on input line 221.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2472,10 +2459,11 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [30
 
+
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 225.
+Package pdftex.def Info: ./figures/background.png  used on input line 221.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2489,9 +2477,26 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 
 ]
+\openout4 = `Arch_Linux_Installation.vrb'.
+
+ (./Arch_Linux_Installation.vrb
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 12.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+<./figures/cp.png, id=375, 620.90033pt x 18.45192pt>
+File: ./figures/cp.png Graphic file (type png)
+<use ./figures/cp.png>
+Package pdftex.def Info: ./figures/cp.png  used on input line 15.
+(pdftex.def)             Requested size: 287.2377pt x 8.5359pt.
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 25.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 225.
+Package pdftex.def Info: ./figures/background.png  used on input line 254.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2503,11 +2508,10 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [32
 
-
- <./figures/cp.png (PNG copy)>]
+]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 225.
+Package pdftex.def Info: ./figures/background.png  used on input line 254.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2521,24 +2525,9 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 
 ]
-<./figures/swapfile.png, id=365, 535.41968pt x 83.03362pt>
-File: ./figures/swapfile.png Graphic file (type png)
-<use ./figures/swapfile.png>
-Package pdftex.def Info: ./figures/swapfile.png  used on input line 230.
-(pdftex.def)             Requested size: 273.46423pt x 42.40993pt.
-<./figures/swapfile2.png, id=366, 843.9271pt x 166.83606pt>
-File: ./figures/swapfile2.png Graphic file (type png)
-<use ./figures/swapfile2.png>
-Package pdftex.def Info: ./figures/swapfile2.png  used on input line 230.
-(pdftex.def)             Requested size: 390.6649pt x 77.23174pt.
-
-Overfull \hbox (30.0pt too wide) in paragraph at lines 230--230
-[]  
- []
-
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 230.
+Package pdftex.def Info: ./figures/background.png  used on input line 254.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2550,14 +2539,11 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [34
 
- <./figures/swapfile.png (PNG copy)> <./figures/swapfile2.png (PNG copy)>]
-\openout4 = `Arch_Linux_Installation.vrb'.
 
-
-(./Arch_Linux_Installation.vrb)
+ <./figures/cp.png (PNG copy)>]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 240.
+Package pdftex.def Info: ./figures/background.png  used on input line 254.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2568,6 +2554,56 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
  []
 
 [35
+
+
+]
+<./figures/swapfile.png, id=413, 535.41968pt x 83.03362pt>
+File: ./figures/swapfile.png Graphic file (type png)
+<use ./figures/swapfile.png>
+Package pdftex.def Info: ./figures/swapfile.png  used on input line 259.
+(pdftex.def)             Requested size: 273.46423pt x 42.40993pt.
+<./figures/swapfile2.png, id=414, 843.9271pt x 166.83606pt>
+File: ./figures/swapfile2.png Graphic file (type png)
+<use ./figures/swapfile2.png>
+Package pdftex.def Info: ./figures/swapfile2.png  used on input line 259.
+(pdftex.def)             Requested size: 390.6649pt x 77.23174pt.
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 259--259
+[]  
+ []
+
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 259.
+(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
+
+Overfull \vbox (6.37871pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[36
+
+ <./figures/swapfile.png (PNG copy)> <./figures/swapfile2.png (PNG copy)>]
+\openout4 = `Arch_Linux_Installation.vrb'.
+
+
+(./Arch_Linux_Installation.vrb)
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 269.
+(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
+
+Overfull \vbox (6.37871pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[37
 
 ])
 \openout2 = `./content_Arch_Linux_Installation/After_Base_Installation.aux'.
@@ -2585,7 +2621,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[36
+[38
 
 
 
@@ -2606,7 +2642,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[37
+[39
 
 ]
 \openout4 = `Arch_Linux_Installation.vrb'.
@@ -2624,7 +2660,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[38
+[40
 
 ]
 File: ./figures/background.png Graphic file (type png)
@@ -2639,7 +2675,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[39
+[41
 
 
 ]
@@ -2666,7 +2702,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[40
+[42
 
 ]
 \openout4 = `Arch_Linux_Installation.vrb'.
@@ -2684,7 +2720,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[41
+[43
 
 ]
 \openout4 = `Arch_Linux_Installation.vrb'.
@@ -2702,7 +2738,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[42
+[44
 
 ]
 \openout4 = `Arch_Linux_Installation.vrb'.
@@ -2720,7 +2756,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[43
+[45
 
 ]
 \openout4 = `Arch_Linux_Installation.vrb'.
@@ -2738,7 +2774,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[44
+[46
 
 ]
 \openout4 = `Arch_Linux_Installation.vrb'.
@@ -2761,38 +2797,38 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[45
-
-]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 113.
-(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
-
-Overfull \vbox (6.37871pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[46
-
-
-]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 113.
-(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
-
-Overfull \vbox (6.37871pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
 [47
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 113.
+(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
+
+Overfull \vbox (6.37871pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[48
+
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 113.
+(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
+
+Overfull \vbox (6.37871pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[49
 
 
 ]
@@ -2811,7 +2847,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[48
+[50
 
 ]
 \openout4 = `Arch_Linux_Installation.vrb'.
@@ -2829,7 +2865,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[49
+[51
 
 ]
 \openout4 = `Arch_Linux_Installation.vrb'.
@@ -2847,7 +2883,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[50
+[52
 
 ]
 \openout4 = `Arch_Linux_Installation.vrb'.
@@ -2865,7 +2901,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[51
+[53
 
 ]
 \openout4 = `Arch_Linux_Installation.vrb'.
@@ -2883,7 +2919,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[52
+[54
 
 ]
 \openout4 = `Arch_Linux_Installation.vrb'.
@@ -2906,7 +2942,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[53
+[55
 
 ]
 \openout4 = `Arch_Linux_Installation.vrb'.
@@ -2929,7 +2965,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[54
+[56
 
 ]
 \openout4 = `Arch_Linux_Installation.vrb'.
@@ -2952,7 +2988,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[55
+[57
 
 ]
 \openout4 = `Arch_Linux_Installation.vrb'.
@@ -2970,7 +3006,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[56
+[58
 
 ]
 \openout4 = `Arch_Linux_Installation.vrb'.
@@ -2993,38 +3029,38 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[57
-
-]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 259.
-(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
-
-Overfull \vbox (6.37871pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[58
-
-
-]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 259.
-(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
-
-Overfull \vbox (6.37871pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
 [59
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 259.
+(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
+
+Overfull \vbox (6.37871pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[60
+
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 259.
+(pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
+
+Overfull \vbox (6.37871pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[61
 
 
 ])
@@ -3040,7 +3076,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[60
+[62
 
 
 
@@ -3063,7 +3099,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[61
+[63
 
 ]
 
@@ -3084,7 +3120,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[62
+[64
 
 ]
 
@@ -3105,7 +3141,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[63
+[65
 
 ]
 
@@ -3126,7 +3162,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[64
+[66
 
 ]
 
@@ -3147,7 +3183,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[65
+[67
 
 ]
 \tf@nav=\write10
@@ -3171,27 +3207,28 @@ Package logreq Info: Writing requests to 'Arch_Linux_Installation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50258 strings out of 477529
- 1080752 string characters out of 5827605
+ 50347 strings out of 477529
+ 1083253 string characters out of 5827605
  1992248 words of memory out of 5000000
- 68037 multiletter control sequences out of 15000+600000
- 485455 words of font info for 118 fonts, out of 8000000 for 9000
+ 68114 multiletter control sequences out of 15000+600000
+ 487102 words of font info for 124 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  133i,17n,125p,1081b,2455s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></o
 pt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></opt/te
 xlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></opt/texlive
 /texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></opt/texlive/texdi
-r/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></opt/texlive/texdir/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></opt/texlive/texdir/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/texdir/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmtt10.pfb></opt/texlive/texdir/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmtt8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/
-public/amsfonts/symbols/msam10.pfb>
-Output written on Arch_Linux_Installation.pdf (65 pages, 2273022 bytes).
+r/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></opt/texlive/texdir/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></opt/texlive/texdir/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmssi9.pfb></opt/texlive/texdir/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/texdir/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmtt10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmtt8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public
+/amsfonts/symbols/msam10.pfb>
+Output written on Arch_Linux_Installation.pdf (67 pages, 2289713 bytes).
 PDF statistics:
- 739 PDF objects out of 1000 (max. 8388607)
- 621 compressed objects within 7 object streams
- 135 named destinations out of 1000 (max. 500000)
- 32909 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 791 PDF objects out of 1000 (max. 8388607)
+ 656 compressed objects within 7 object streams
+ 139 named destinations out of 1000 (max. 500000)
+ 33499 words of extra memory for PDF output out of 35830 (max. 10000000)
 
